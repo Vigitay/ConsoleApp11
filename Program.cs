@@ -5,3 +5,4 @@ Console.WriteLine(a);
 int b;
 b = 5;
 Console.WriteLine(b);
+return;
